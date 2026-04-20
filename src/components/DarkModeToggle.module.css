@@ -1,0 +1,12 @@
+.button {
+  background-color: aqua;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+}
+
+.light {
+  background-color: darkgray;
+}
+
+.dark {
+  background-color: beige;
+}
